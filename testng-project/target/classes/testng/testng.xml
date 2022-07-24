@@ -7,10 +7,4 @@
 			<class name = "testng.Kayak"/>
 		</classes>
 	</test>
-	<test name = "FirefoxTest">
-		<parameter name="browser"  value="firefox"/>
-		<classes>
-			<class name = "testng.Kayak"/>
-		</classes>
-	</test>
 </suite>	

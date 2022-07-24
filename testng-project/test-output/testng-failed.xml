@@ -8,7 +8,6 @@
           <include name="BeforeSuite"/>
           <include name="ChromeTest"/>
           <include name="afterTest"/>
-          <include name="FirefoxTest"/>
         </methods>
       </class> <!-- testng.Kayak -->
     </classes>
