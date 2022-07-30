@@ -29,3 +29,4 @@ testng-project/test-output/
 testng-project/.classpath
 testng-project/.project
 testng-project/.settings/
+testng-project/src/main/java/old/
