@@ -25,7 +25,7 @@ hs_err_pid*
 .DS_Store
 
 testng-project/target/
-testng-project/test-output
+testng-project/test-output/
 testng-project/.classpath
 testng-project/.project
 testng-project/.settings
